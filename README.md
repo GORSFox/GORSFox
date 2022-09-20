@@ -2,6 +2,7 @@
 
 <div>
  Especialista em Gestão de Tributos
+ font-family: arial black
 <div>
  Estudante de Front-End
  
