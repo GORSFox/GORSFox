@@ -1,6 +1,6 @@
 ## Olá, sou Glaucia! 
 
-https://robohash.org/7ec67ff6f251142745f5e66cfe042734?set=set4&bgset=&size=400x400
+
 <div>
  Front-End Júnior
  
