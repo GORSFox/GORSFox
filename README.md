@@ -11,7 +11,14 @@
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gorsfox&layout=compact&theme=dracula)
 
-![Snake animation](https://github.com/seu-usuário-aqui/GORSFox/blob/output/github-contribution-grid-snake.svg)
+# Hi, I'm Fagner! :D
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GORSFox)](https://github.com/GORSFox)
+
+
+### About me
+
+
 
   
   
